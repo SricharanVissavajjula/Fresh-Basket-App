@@ -52,14 +52,14 @@
   border: 1px solid black;
   padding: 6px 20px;
   background-color: #add8e6;
-  border-radius: 60%;
+  border-radius: 10px;
   color: rgb(0, 0, 0);
 }
 .dec-btn {
   border: 1px solid black;
   padding: 6px 20px;
   background-color: #add8e6;
-  border-radius: 60%;
+  border-radius: 10px;
   margin-left: 2cm;
   color: rgb(0, 0, 0);
 }
